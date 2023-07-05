@@ -14,11 +14,11 @@
  
  <br>
  
-  ### Me siga nas redes abaixo!
+  ### Me siga na rede abaixo!
  
 <div> 
   <a href="https://instagram.com/_.marcws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/579858371419570204" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
  
   ![Snake animation](https://github.com/Marcos-VINIDEV/Marcos-VINIDEV/blob/output/github-contribution-grid-snake.svg)
 
